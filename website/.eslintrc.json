@@ -4,3 +4,4 @@
     "prettier"
   ]
 }
+"rules": { "react/no-unescaped-entities": 0 }
