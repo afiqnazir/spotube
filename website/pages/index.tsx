@@ -68,19 +68,7 @@ const Root = () => {
             alignItems="center" // Center align content vertically on mobile
             textAlign="center" // Center align text horizontally on mobile
           >
-            <chakra.div maxW="600px">
-              <Image
-                src={"/headline-1.png"}
-                m={"10"}
-                bgRepeat={"no-repeat"}
-                bgSize={"contain"}
-                h={"60vh"}
-                width={"1020"}
-                height={"780"}
-                layout={"intrinsic"}
-                alt={"Headline 2"}
-              />
-            </chakra.div>
+            
             <chakra.div
               maxW="500px"
               bgGradient={{
