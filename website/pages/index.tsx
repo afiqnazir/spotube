@@ -167,7 +167,7 @@ const Root = () => {
           <div>
             <Heading size="lg">Download Now</Heading>
             <Text>
-              Download Spotube for every platform you want. It's available everywhere.
+              Download Spotube for every platform you want. It&apos;s available everywhere.
             </Text>
           </div>
           <DownloadButton />
